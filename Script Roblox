@@ -1,1 +1,5 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Barrino12/Bar/main/Script%202", true))()
+wait(10)
+local FarmFestivalID = game:GetService("TeleportService")
+local Player = game:GetService("Players").LocalPlayer
+FarmFestivalID:Teleport(game.PlaceId, Player)
