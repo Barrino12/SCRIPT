@@ -1,5 +1,5 @@
-local Thread1 = coroutine.create(function()
+local Cutieee = coroutine.create(function()
   loadstring(game:HttpGet("https://raw.githubusercontent.com/Barrino12/Bar/main/Script%202", true))()
 end)
-coroutine.resume(Thread1)
+coroutine.resume(Cutieee)
   loadstring(game:HttpGet("https://raw.githubusercontent.com/Barrino12/Bar/main/Script%205", true))()
